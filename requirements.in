@@ -1,0 +1,10 @@
+numpy
+pandas
+pyspark
+isort
+black
+flake8
+sqlfluff
+matplotlib
+sklearn
+plotly
