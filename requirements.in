@@ -8,3 +8,4 @@ sqlfluff
 matplotlib
 sklearn
 plotly
+openpyxl
